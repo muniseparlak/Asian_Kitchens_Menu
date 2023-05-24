@@ -5,4 +5,4 @@
 Butonlar js dosyasından gelmiştir. 
 Map, filter methodları kullanılmıştır.*
 
-![photo] (http://127.0.0.1:5500/index.html)
+![photo] (https://github.com/muniseparlak/Asian_Kitchens_Menu/blob/main/Asian-Kitchen-screenshot.png)
